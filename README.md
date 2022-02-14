@@ -1,1 +1,1 @@
-# Schedu-eCreator
+# ScheduleCreator
