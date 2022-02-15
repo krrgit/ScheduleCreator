@@ -1,0 +1,10 @@
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\bin\Debug\ScheduleCreator.exe.config
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\bin\Debug\ScheduleCreator.exe
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\bin\Debug\ScheduleCreator.pdb
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.Properties.Resources.resources
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.csproj.GenerateResource.cache
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.csproj.CoreCompileInputs.cache
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.exe
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.pdb
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.csprojAssemblyReference.cache
+F:\Documents\_Projects\VisualStudio\ScheduleCreator\ScheduleCreator\obj\Debug\ScheduleCreator.ScheduleCreator.resources
